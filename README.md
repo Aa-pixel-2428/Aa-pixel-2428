@@ -1,8 +1,8 @@
 - 👋 Hi, I’m K R Aathira
-- 👀 I’m interested in expanding my knowledge in coding and participate in writing codes for robotic projects
+- 👀 I’m interested in expanding my knowledge in coding and participate in writing codes for robotic and IoT projects
 - 🌱 B.Tech ECM 2024-28 at VIT Chennai
-- 💞️ I’m looking to collaborate on software required for automation in robots, but I'm currently exploring
-- 📫 How to reach me: Aathira.kr.3116@gmail.com
+- 💞️ I’m looking to collaborate on software required for automation in robotics and IoT
+- 📫 How to reach me: aathira.kr.3116@gmail.com
 
 
 <!---
