@@ -2,7 +2,7 @@
 
 B.Tech Electronics and Computer Engineer student at VIT Chennai.  
 R&D and Projects Lead at Tech Researchers Club.  
-Interested in applying Edge AI to healthcare wearables and industrial/manufacturing systems — anywhere inference needs to happen on-device, in real time, under constraints
+Building toward AI Edge Engineering — on-device inference for real-world constrained environments, with an interest in how humans interact with intelligent edge systems.
 
 ---
 
