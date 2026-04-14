@@ -1,11 +1,44 @@
-- 👋 Hi, I’m K R Aathira
-- 👀 I’m interested in expanding my knowledge in coding and participate in writing codes for robotic and IoT projects
-- 🌱 B.Tech ECM 2024-28 at VIT Chennai
-- 💞️ I’m looking to collaborate on software required for automation in robotics and IoT
-- 📫 How to reach me: aathira.kr.3116@gmail.com
+# Hi, I'm Aathira K.R
 
+B.Tech Electronics and Computer Engineer student at VIT Chennai.  
+R&D and Projects Lead at Tech Researchers Club.  
+Interested in applying Edge AI to healthcare wearables and industrial/manufacturing systems — anywhere inference needs to happen on-device, in real time, under constraints
 
-<!---
-Aa-pixel-2428/Aa-pixel-2428 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## What I'm working on
+
+- Learning ML fundamentals and deploying models on edge hardware (Raspberry Pi, Arduino Nano 33 BLE Sense)
+- Exploring TinyML and LiteRT for constrained device deployment
+- Interested in the intersection of **wearable technology** and **on-device health inference**
+
+---
+
+## Current stack
+
+**Comfortable with** — Python, C/C++ basics, Linear Algebra  
+**Learning** — TensorFlow / LiteRT, model quantization, OpenCV, edge deployment pipelines  
+**Hardware** — Raspberry Pi 4, Arduino Nano 33 BLE Sense (Learning)
+
+---
+
+## Projects
+Casting Product quality Prediction using CNNs in Manufacturing
+
+---
+
+## Background
+
+Recently appointed as R&D and Projects Lead at Tech Researchers Club — currently building out the team and direction.
+Long-term direction: Edge AI for healthcare and manufacturing — predictive systems, wearable health monitoring, and on-device inference at scale.
+
+---
+
+## Let's connect
+
+LinkedIn : http://www.linkedin.com/in/aathira-raajganesh-87029431b
+Email : aathira.kr.3116 @ gmail.com 
+
+---
+
+*Currently heads-down learning. Open to research collaborations and internship opportunities in Edge AI and embedded ML.*
